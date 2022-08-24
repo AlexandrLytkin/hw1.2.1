@@ -3,10 +3,10 @@ public class Main {
         //Задача 1
         System.out.println("Задача 1");
         var dog = 8.0;
-        var cat = 3.6;
-        var paper = 763789;
         System.out.println(dog);
+        var cat = 3.6;
         System.out.println(cat);
+        var paper = 763789;
         System.out.println(paper);
 
         //Задача 2
