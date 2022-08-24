@@ -49,8 +49,8 @@ public class Main {
 
         //Задача 6
         System.out.println("Задача 6");
-        var boxer1 = 78.2;     //вес первого боксера
-        var boxer2 = 82.7;     //вес второго боксера
+        var boxer1 = 78.2;
+        var boxer2 = 82.7;
         var boxersWeight = boxer1 + boxer2;
         System.out.println("Вес первого боксера " + boxer1 + "кг");
         System.out.println("Вес вторго боксера " + boxer2 + "кг");
@@ -70,7 +70,7 @@ public class Main {
         var allPerson = allHours / onePersonWorkHour;
         System.out.println("Всего работников в компании – " + allPerson + " человек");
         var addPerson = 94;
-        var allStaff = allPerson + addPerson;   //все люди
+        var allStaff = allPerson + addPerson;
         var allAddHours = allStaff * onePersonWorkHour;
         System.out.println("Если в компании работает – " + allStaff + " человек, то всего " + allAddHours + " часов работы может быть поделено между сотрудниками");
 
